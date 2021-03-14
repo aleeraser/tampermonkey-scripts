@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Ultimate-Guitar any-tab-downloader
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Add a button to download any tab, even if the download would not be normally available
 // @author       aleeraser
 // @match        https://tabs.ultimate-guitar.com/tab/*
 // @grant        none
 // @require      http://code.jquery.com/jquery-3.5.1.min.js
+// @updateURL    https://raw.githubusercontent.com/aleeraser/tampermonkey-scripts/main/ultimate-guitar-downloader.js
 // ==/UserScript==
 
 // NOTE: code ready for single usage
