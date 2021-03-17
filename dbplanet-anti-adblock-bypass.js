@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         DB-Planet Anti-Adblock bypass
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Bypass dbplanet.net anti adblock
 // @author       aleeraser
 // @match        https://dbplanet.net/*
+// @match        https://dbplanet.org/*
 // @grant        none
 // @require      http://code.jquery.com/jquery-3.5.1.min.js
 // @updateURL    https://raw.githubusercontent.com/aleeraser/tampermonkey-scripts/main/dbplanet-anti-adblock-bypass.js
